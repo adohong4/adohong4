@@ -7,21 +7,21 @@
 <img align="right" alt="Engineer" width="400" src="gifs/trust me.gif">
 <br>
 
-- 🔭 I am pursuing a Bachelor's degree in <b>Software Engineering</b> at <a href="https://hau.edu.vn/">HANOI ARCHITECTURAL UNIVERSITY of Information Technology.</a>
+- 🔭 I am pursuing a Engineer's degree in <b>Software Engineering</b> at <a href="https://hau.edu.vn/">HANOI ARCHITECTURAL UNIVERSITY of Information Technology.</a>
 - 👨‍💻 I'm deeply passionate about developing fullstack websites and applications. 
-- 🍵 I love working with Java, NodeJS, Blockchain.
+- 🍵 I love working with Golang, NodeJS, Solidity, Blockchain.
 - 📧 How to reach me: <a href="mailto:adohong4@gmail.com">adohong4@gmail.com</a>
 <br>
 
 ## <img src="gifs/giphy.gif" width="25"/> <b>Tech stack</b>
 
 - ### Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![Solidity](https://img.shields.io/badge/solidity-%5E0.8.25-black)
+
 
 - ### Frameworks and Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -31,6 +31,7 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## <img src="gifs/handshake.gif" width ="80"><b> Let's Connect!</b>
 <p align="left">
